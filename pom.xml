@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.shubhi</groupId>
-  <artifactId>jsp_data_rule_editing</artifactId>
+  <artifactId>jsp_dependency_test</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>jsp_data_rule_editing</name>
+  <name>jsp_dependency_test</name>
   <description></description>
   <dependencies>
     <dependency>
